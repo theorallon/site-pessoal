@@ -8,12 +8,12 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    color: #333;
+    color: #1a244e;;
 }
 
 /* Header */
 header {
-    background: #2c3e50;
+    background: #0f1841;
     color: white;
     padding: 1rem 0;
     position: fixed;
@@ -62,7 +62,7 @@ section {
 }
 
 #hero {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #0e1d5f 0%, #3a68ff 100%);
     color: white;
     text-align: center;
     padding: 6rem 2rem;
@@ -88,7 +88,7 @@ section {
 
 /* Footer */
 footer {
-    background: #2c3e50;
+    background: #0f1841;
     color: white;
     text-align: center;
     padding: 2rem;
